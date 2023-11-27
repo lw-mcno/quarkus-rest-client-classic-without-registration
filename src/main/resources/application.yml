@@ -1,0 +1,4 @@
+quarkus:
+  rest-client:
+    "org.acme.ExampleRestService":
+      url: 'https://jsonplaceholder.typicode.com/'
